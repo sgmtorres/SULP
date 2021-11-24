@@ -164,8 +164,8 @@
     }
   ],
   "Categories": [
-    {
-      "Id": "53fb6e5b-1818-492c-beaf-a4b80626ae22",
+{
+      "Id": "c87d172d-9f80-4c23-a38d-99bed3ccb4ab",
       "Name": "Onboarding",
       "Image": "",
       "TechnologyId": "",
@@ -173,9 +173,18 @@
       "Source": "Custom",
       "SubCategories": [
         {
-          "Id": "50c13d29-2bd3-4b0c-b522-8e5b59bc917f",
-          "Name": "Test Category",
+          "Id": "2fe79a9d-4f8b-4cc0-ade9-17ab2778fd4c",
+          "Name": "Test 1",
           "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "f19afa39-2b73-4468-9d60-d3d09a1c64ed",
+          "Name": "Test 2",
+          "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
