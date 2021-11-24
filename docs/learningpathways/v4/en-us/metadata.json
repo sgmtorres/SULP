@@ -165,6 +165,15 @@
   ],
   "Categories": [
     {
+      "Id": "f15a15f0-2c54-4dd8-8dae-712b01840166",
+      "Name": "HR Onboarding",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
