@@ -170,7 +170,18 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Custom"
+      "Source": "Custom",
+      "SubCategories": [
+        {
+          "Id": "50c13d29-2bd3-4b0c-b522-8e5b59bc917f",
+          "Name": "Test Category",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+       ]
     },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
