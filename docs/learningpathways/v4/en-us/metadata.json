@@ -172,24 +172,6 @@
       "SubjectId": "",
       "Source": "Custom",
       "SubCategories": [
-        {
-          "Id": "c7e4d8b4-df28-46e0-b10b-811ed844f284",
-          "Name": "HR Training",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
-        {
-          "Id": "cb1d666d-d853-4121-aecf-d88fb9b7678f",
-          "Name": "Onboarding Package",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        }
       ]
     },
     {
