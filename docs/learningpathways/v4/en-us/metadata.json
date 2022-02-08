@@ -174,8 +174,8 @@
       "SubCategories": []
     },
     {
-      "Id": "79aca4c6-6f8c-4f44-83e1-610df4c12e59",
-      "Name": "Baseline Training",
+      "Id": "88518be9-f46a-43c5-b870-c2bb759ad7b6",
+      "Name": "Trucking 101",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -183,8 +183,8 @@
       "SubCategories": []
     },
     {
-      "Id": "488b9cc3-5976-4c42-8f56-7d1fc02454e0",
-      "Name": "TPTS Courses",
+      "Id": "c9b7e5ed-78b7-472a-aeeb-d687551b1655",
+      "Name": "Conexus 101",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -192,14 +192,113 @@
       "SubCategories": []
     },
     {
-      "Id": "27c2ade7-b32f-4a81-9dcd-a6a9f136cfd3",
-      "Name": "DOT Courses",
+      "Id": "c9b7e5ed-78b7-472a-aeeb-d687551b1655",
+      "Name": "Simplex Foundations",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
       "SubCategories": []
     },
+    {
+      "Id": "1dad5019-21c2-4c8a-a77e-f3051bfb4a6c",
+      "Name": "Outbound Sales LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "37e2c5c4-9303-4510-b530-15dc8aeb8834",
+      "Name": "DOT SAM LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "ff338108-a341-48e9-b294-b428a0cfe2b9c",
+      "Name": "DOT SAM Assistance LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "f3994936-9a92-40b8-b0a6-c96e74cb4da8",
+      "Name": "PEV Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "631ff3ae-8aa3-4804-92b9-86442aebaadd",
+      "Name": "Driver Logs Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "70a9febe-498e-4a9d-be96-accb7b1b4ea6",
+      "Name": "Data Entry Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "ce6469fd-b479-4c36-8ff7-6928092828fd",
+      "Name": "NDO Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "326630c5-54fa-4d1e-9b1c-3dc799d3c07c",
+      "Name": "Audits & Data Q Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "ad98597f-bf8b-4bbb-801b-c3154cfe69f2",
+      "Name": "SRU & CAPs Specialist LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "d0d8f79a-5070-4496-a972-65561c002b59",
+      "Name": "Drug Testing Dept. LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "9dd98650-dc68-41da-b9e4-fd62021c8a5a",
+      "Name": "TPTS Inbound LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },   
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
