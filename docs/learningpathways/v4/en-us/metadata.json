@@ -1,6 +1,11 @@
 {
   "Technologies": [
     {
+      "Id": "a5884302-31c5-4160-aa38-cce74032a553",
+      "Name": "HR",
+      "Subjects": []
+    },
+    {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "Name": "Lists",
       "Subjects": []
@@ -193,7 +198,7 @@
     },
     {
       "Id": "c9b7e5ed-78b7-472a-aeeb-d687551b1655",
-      "Name": "Simplex Foundations",
+      "Name": "Simplex Engines",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
