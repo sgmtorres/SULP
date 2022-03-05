@@ -206,8 +206,17 @@
       "SubCategories": []
     },
     {
-      "Id": "1dad5019-21c2-4c8a-a77e-f3051bfb4a6c",
-      "Name": "Outbound Sales LP",
+      "Id": "ce575393-b76a-473c-a0a1-1eb53e068f38",
+      "Name": "New Business Developer",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "04735358-485a-419d-af61-63df1c7ca414",
+      "Name": "Sales Support",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
