@@ -180,7 +180,7 @@
     },
     {
       "Id": "88518be9-f46a-43c5-b870-c2bb759ad7b6",
-      "Name": "Trucking 101",
+      "Name": "Transportation",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -270,7 +270,7 @@
     },
     {
       "Id": "326630c5-54fa-4d1e-9b1c-3dc799d3c07c",
-      "Name": "Audits & Data Q Dept. LP",
+      "Name": "Audits Dept. LP",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -279,7 +279,7 @@
     },
     {
       "Id": "ad98597f-bf8b-4bbb-801b-c3154cfe69f2",
-      "Name": "SRU & CAPs Specialist LP",
+      "Name": "SRU & CAP Dept. LP",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -303,7 +303,16 @@
       "SubjectId": "",
       "Source": "Custom",
       "SubCategories": []
-    },   
+    }, 
+        {
+      "Id": "c77ab20e-13cd-466f-8aec-4cee84cdf06b",
+      "Name": "TPTS Processor LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
