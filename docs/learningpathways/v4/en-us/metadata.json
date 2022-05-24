@@ -170,6 +170,24 @@
   ],
   "Categories": [
     {
+      "Id": "1e2f5e96-ebc1-4c34-b6ef-c0c42c680844",
+      "Name": "Service the Simplex Way",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "0313966b-2ad2-4a41-8c49-612e70df17d8",
+      "Name": "Portal & Mobile App",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
       "Id": "f15a15f0-2c54-4dd8-8dae-712b01840166",
       "Name": "HR Onboarding",
       "Image": "",
