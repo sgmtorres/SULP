@@ -169,27 +169,27 @@
     }
   ],
   "Categories": [
-    {
-      "Id": "1916bd02-5b65-4180-a280-3601c0215064",
-      "Name": "Service the Simplex Way",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": []
-    },
-    {
-      "Id": "7fb60cba-4b68-420c-830c-a4ab89fef849",
-      "Name": "Portal & Mobile App",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Custom",
-      "SubCategories": []
-    },
-    {
+        {
       "Id": "f15a15f0-2c54-4dd8-8dae-712b01840166",
       "Name": "HR Onboarding",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "8aaddead-1e5f-4cf7-9bb3-2ef15d1c3a79",
+      "Name": "Service the Simplex Way LP",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "657b1c91-ebbb-434c-a465-a266302000a3",
+      "Name": "Portal & Mobile App LP",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
