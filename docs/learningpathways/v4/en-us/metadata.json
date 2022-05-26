@@ -178,6 +178,24 @@
       "Source": "Custom",
       "SubCategories": []
     },
+        {
+      "Id": "8b07231d-496c-48c2-bad2-f29df6c475d7",
+      "Name": "Service the Simplex Way",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+        {
+      "Id": "5dd3c513-9777-475c-8331-3644acf265fa",
+      "Name": "Simplex Hub & Simplex Go",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
     {
       "Id": "88518be9-f46a-43c5-b870-c2bb759ad7b6",
       "Name": "Transportation",
