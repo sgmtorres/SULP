@@ -1,6 +1,11 @@
 {
   "Technologies": [
     {
+      "Id": "e5bf0d94-999e-4c81-9d01-6a1e2e98daec",
+      "Name": "Playlist",
+      "Subjects": []
+    },
+    {
       "Id": "a5884302-31c5-4160-aa38-cce74032a553",
       "Name": "HR",
       "Subjects": []
