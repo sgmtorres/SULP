@@ -1,11 +1,6 @@
 {
   "Technologies": [
     {
-      "Id": "e5bf0d94-999e-4c81-9d01-6a1e2e98daec",
-      "Name": "Playlist",
-      "Subjects": []
-    },
-    {
       "Id": "a5884302-31c5-4160-aa38-cce74032a553",
       "Name": "HR",
       "Subjects": []
@@ -630,6 +625,10 @@
     }
   ],
   "Audiences": [
+   {
+      "Id": "ccdd7fb4-d5bc-42d1-bfbc-61930657193e",
+      "Name": "Playlist"
+    },
     {
       "Id": "092298e4-2cad-4ee5-89a8-68b2ad07dc96",
       "Name": "All"
