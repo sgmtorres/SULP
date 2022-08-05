@@ -171,7 +171,7 @@
   "Categories": [
     {
       "Id": "f15a15f0-2c54-4dd8-8dae-712b01840166",
-      "Name": "HR Onboarding",
+      "Name": "HR Onboarding › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -180,16 +180,43 @@
     },
         {
       "Id": "8b07231d-496c-48c2-bad2-f29df6c475d7",
-      "Name": "Service the Simplex Way",
+      "Name": "Service the Simplex Way › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Custom",
       "SubCategories": []
     },
-        {
+    {
+      "Id": "708cd867-4fde-4aaf-a4b2-d2558b1cee3a",
+      "Name": "Simplex Hub & Simplex 2Go-1 › Learning Plan › Courses:",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
       "Id": "5dd3c513-9777-475c-8331-3644acf265fa",
-      "Name": "Simplex Hub & Simplex Go",
+      "Name": "Simplex Hub & Simplex 2Go-2 › Learning Plan › Courses:",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "ea56f756-bea3-42f5-be6d-f6253c344fa8",
+      "Name": "Simplex ELD-1 › Learning Plan › Courses:",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "419cbdf1-3753-4336-a648-686930717e7b",
+      "Name": "Simplex ELD-2 › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -198,7 +225,7 @@
     },
     {
       "Id": "c2ea6f18-dff9-407f-9d48-719018af3b56",
-      "Name": "Insurance Producer Learning Plan - Courses:",
+      "Name": "Insurance Producer › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -207,7 +234,7 @@
     },
     {
       "Id": "88518be9-f46a-43c5-b870-c2bb759ad7b6",
-      "Name": "Transportation",
+      "Name": "Transportation › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -216,7 +243,7 @@
     },
     {
       "Id": "c9b7e5ed-78b7-472a-aeeb-d687551b1655",
-      "Name": "Conexus 101",
+      "Name": "Conexus 101 › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -225,7 +252,7 @@
     },
     {
       "Id": "c9b7e5ed-78b7-472a-aeeb-d687551b1655",
-      "Name": "Simplex Engines",
+      "Name": "Simplex Engines › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -234,7 +261,7 @@
     },
     {
       "Id": "1dad5019-21c2-4c8a-a77e-f3051bfb4a6c",
-      "Name": "New Business Developer Learning Plan - Courses:",
+      "Name": "New Business Developer › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -243,7 +270,7 @@
     },
     {
       "Id": "04735358-485a-419d-af61-63df1c7ca414",
-      "Name": "OB Sales Support LP",
+      "Name": "OB Sales Support › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -252,7 +279,7 @@
     },
     {
       "Id": "37e2c5c4-9303-4510-b530-15dc8aeb8834",
-      "Name": "DOT SAM LP",
+      "Name": "DOT SAM › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -261,7 +288,7 @@
     },
     {
       "Id": "ff338108-a341-48e9-b294-b428a0cfe2b9c",
-      "Name": "DOT SAM Assistance LP",
+      "Name": "DOT SAM Assistance › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -270,7 +297,7 @@
     },
     {
       "Id": "f3994936-9a92-40b8-b0a6-c96e74cb4da8",
-      "Name": "PEV Dept. LP",
+      "Name": "Past Employment Verification › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -279,7 +306,7 @@
     },
     {
       "Id": "631ff3ae-8aa3-4804-92b9-86442aebaadd",
-      "Name": "Driver Logs Dept. LP",
+      "Name": "Driver Logs › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -288,7 +315,7 @@
     },
     {
       "Id": "70a9febe-498e-4a9d-be96-accb7b1b4ea6",
-      "Name": "Data Entry Dept. LP",
+      "Name": "Data Entry › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -297,7 +324,7 @@
     },
     {
       "Id": "ce6469fd-b479-4c36-8ff7-6928092828fd",
-      "Name": "NDO Dept. LP",
+      "Name": "New Driver Onboarding › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -306,7 +333,7 @@
     },
     {
       "Id": "326630c5-54fa-4d1e-9b1c-3dc799d3c07c",
-      "Name": "Audits Dept. LP",
+      "Name": "DOT Audits › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -315,7 +342,7 @@
     },
     {
       "Id": "ad98597f-bf8b-4bbb-801b-c3154cfe69f2",
-      "Name": "SRU & CAP Dept. LP",
+      "Name": "SRU & CAP › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -324,7 +351,7 @@
     },
     {
       "Id": "d0d8f79a-5070-4496-a972-65561c002b59",
-      "Name": "Drug Testing Dept. LP",
+      "Name": "Drug Testing › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -333,7 +360,7 @@
     },
     {
       "Id": "9dd98650-dc68-41da-b9e4-fd62021c8a5a",
-      "Name": "TPTS Inbound LP",
+      "Name": "TPTS Inbound › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -342,7 +369,7 @@
     }, 
         {
       "Id": "c77ab20e-13cd-466f-8aec-4cee84cdf06b",
-      "Name": "TPTS Processor LP",
+      "Name": "TPTS Processor › Learning Plan › Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
