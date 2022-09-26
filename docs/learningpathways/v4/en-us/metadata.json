@@ -178,9 +178,18 @@
       "Source": "Custom",
       "SubCategories": []
     },
-        {
+    {
       "Id": "8b07231d-496c-48c2-bad2-f29df6c475d7",
       "Name": "Service the Simplex Way > Learning Plan > Courses:",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": []
+    },
+    {
+      "Id": "b529a769-17bc-4bda-b6ee-0be8eadf950b",
+      "Name": "IT - Security & Awareness-1 > Learning Plan > Courses:",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
